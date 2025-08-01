@@ -1,7 +1,5 @@
 # Shopper Spectrum: Customer Segmentation & Product Recommendations
 
-![Shopper Spectrum](https://img.shields.io/badge/Shopper%20Spectrum-Streamlit%20App-blue.svg)  
-[![Releases](https://img.shields.io/badge/Releases-Check%20Here-brightgreen.svg)](https://github.com/zigibir/Shopper-Spectrum_-Segmentation-and-Recomm/releases)
 
 ## Overview
 
