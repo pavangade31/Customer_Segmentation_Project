@@ -107,10 +107,7 @@ Data visualization plays a crucial role in understanding the data. The app inclu
 - **Interactive Charts**: For exploring customer segments.
 - **Graphs**: To visualize product recommendations.
 
-## Screenshots
 
-![Customer Segmentation](https://via.placeholder.com/800x400.png?text=Customer+Segmentation)  
-![Product Recommendations](https://via.placeholder.com/800x400.png?text=Product+Recommendations)
 
 ## Contributing
 
@@ -122,17 +119,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push your branch to your forked repository.
 5. Open a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For questions or feedback, please reach out via the GitHub Issues section or contact the repository owner.
 
-## Releases
-
-For the latest updates and releases, please check the [Releases section](https://github.com/zigibir/Shopper-Spectrum_-Segmentation-and-Recomm/releases). Download the latest version and execute the app to explore its features.
 
 ## Topics
 
